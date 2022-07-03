@@ -508,5 +508,8 @@ $avatar = substr(Auth::user()->name, 0, 2);
 <!-- END: Body-->
 
 <!-- Mirrored from pixinvent.com/demo/vuexy-html-bootstrap-admin-template/html/ltr/vertical-menu-template/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 15 Aug 2021 07:33:55 GMT -->
+<footer class="row">
+    @include('include.footer')
+</footer>
 
 </html>

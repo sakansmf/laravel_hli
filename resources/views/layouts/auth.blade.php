@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <!--
-Template Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
-Author: PixInvent
-Website: http://www.pixinvent.com/
-Contact: hello@pixinvent.com
-Follow: www.twitter.com/pixinvents
-Like: www.facebook.com/pixinvents
-Purchase: https://1.envato.market/vuexy_admin
-Renew Support: https://1.envato.market/vuexy_admin
-License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
 
 -->
 <html class="loading" lang="en" data-textdirection="ltr">
@@ -88,4 +79,7 @@ License: You must have a valid license purchased only from themeforest(the above
   <!-- END: Body-->
 
 <!-- Mirrored from pixinvent.com/demo/vuexy-html-bootstrap-admin-template/html/ltr/vertical-menu-template/page-auth-register-v2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 15 Aug 2021 07:34:34 GMT -->
+<footer>
+  @include('include.footer')
+</footer>
 </html>
